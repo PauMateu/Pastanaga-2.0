@@ -1,6 +1,6 @@
 # Pastanaga 2.0
  [Devpost](https://devpost.com/software/pastanaga-2-0)
- [Website](jamipuchi.github.io)
+ [Website](https://jamipuchi.github.io/Pastanaga-2.0/)
  
  
 ## Inspiration
